@@ -10,7 +10,6 @@
 #endif
 #endif
 
-#import "NSString+Test.h"
 
 FOUNDATION_EXPORT double pod_testVersionNumber;
 FOUNDATION_EXPORT const unsigned char pod_testVersionString[];

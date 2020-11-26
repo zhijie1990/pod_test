@@ -1,19 +1,19 @@
 {
   "name": "pod_test",
-  "version": "0.1.0",
-  "summary": "A short description of pod_test.",
+  "version": "0.1.1",
+  "summary": "私有库项目测试demo",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/zhaojun11/pod_test",
+  "homepage": "https://github.com/zhijie1990/pod_test",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "zhaojun11": "zhaojun11@58.com"
+    "zhaojun": "zhaojun1990@126.com"
   },
   "source": {
-    "git": "https://github.com/zhaojun11/pod_test.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/zhijie1990/pod_test.git",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
