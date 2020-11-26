@@ -22,7 +22,7 @@ pod 'pod_test'
 
 ## Author
 
-zhaojun11, zhaojun11@58.com
+zhaojun, zhaojun1990@126.com
 
 ## License
 
